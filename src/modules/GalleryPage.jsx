@@ -11,31 +11,31 @@ function GalleryPage(){
 
     const images = [
         {
-            filepath: 'src/assets/Covid-Dashboard.png',
+            filepath: covidDataAnalytics,
             caption: "Nevada COVID-19 dashboard that highlights historical hospitalization trends from 2021 to 2024.",
             title: "2024 Alvaro Espinoza"
         },
 
         {
-            filepath: 'src/assets/Mexico-Plaza.jpg',
+            filepath: mexicoTravel,
             caption: "A plaza in Tlaquepaque, Mexico",
             title: "2024 Alvaro Espinoza"
         },
 
         {
-            filepath: 'src/assets/Napa-Valley-Castle.jpg',
+            filepath: californiaWineTour,
             caption: "This is a landscape photo of the Castello di Amorosa vineyard in Napa Valley, California.",
             title: "2024 Alvaro Espinoza"
         },
 
         {
-            filepath: 'src/assets/Velocity-Expirement.jpg',
+            filepath: velocityExperiment,
             caption: "A photo showing a computer program tracking the velocity of an object.",
             title: "2024 Alvaro Espinoza"
         },
 
         {
-            filepath: 'src/assets/Subaru-Horn-Wiring-Diagram.jpg',
+            filepath: subaruWiring,
             caption: "This is a wiring diagram to install an aftermarket horn on a 2005 Subaru Forester.",
             title: "2024 Alvaro Espinoza"
         }
